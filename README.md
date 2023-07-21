@@ -22,8 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Check result deployed on netlify](https://regal-axolotl-66e035.netlify.app/)
 
 ## My process
 
@@ -41,6 +40,6 @@ This is my first time using SASS on a project
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Linkedin - [aaronaira](https://www.linkedin.com/in/aaron-aira/)
+- Frontend Mentor - [@aaronaira](https://www.frontendmentor.io/profile/aaronaira)
+
